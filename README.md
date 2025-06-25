@@ -7,9 +7,9 @@
 <hr>
 - 🔭 I’m currently College Student*<br>
 
-- 🌱 I’m currently learning *React js*<br>
-
 - 💬 Ask me about *HTML , CSS , JS *<br>
+
+- 🌱 I’m currently learning *React js*<br>
 
 <hr>
 
